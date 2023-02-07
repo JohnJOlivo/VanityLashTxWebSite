@@ -71,11 +71,12 @@ nav {
 	background-color: rgba(0, 0, 0, 0.1);
 	border: 4px black;
 	border-style: double none double none;
+	width: 100%
 }
 
 .intro p {
 	text-align: center;
-	font-size: 40px;
+	font-size: 2.5rem;
 	font-family: "heebo", sans-serif;
 }
 
@@ -86,7 +87,7 @@ nav {
 }
 
 .intro span:hover {
-	font-size: 55px;
+	font-size: 3.4375rem;
 }
 
 .middle-section {
@@ -110,7 +111,7 @@ nav {
 
 .middle-section li {
 	list-style: none;
-	font-size: 35px;
+	font-size: 2.1875rem;
 	text-align: center;
 	margin: 22px;
 	position: relative;
@@ -146,7 +147,7 @@ nav {
 	display: flex;
 	justify-content: center;
 	list-style: none;
-	font-size: 40px;
+	font-size: 2.5rem;
 	text-align: center;
 	margin: 22px;
 	position: relative;
