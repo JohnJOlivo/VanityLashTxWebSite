@@ -71,7 +71,7 @@ nav {
 	background-color: rgba(0, 0, 0, 0.1);
 	border: 4px black;
 	border-style: double none double none;
-	width: 100%
+	background-size: 100%, auto;
 }
 
 .intro p {
